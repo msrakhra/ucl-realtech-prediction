@@ -1,2 +1,8 @@
-# ucl-realtech-prediction
-Visualising and Explaining Predictions for Median Household Income, using ScanSan API data
+## 🐍 Conda Environment Setup
+
+This project uses Conda to manage dependencies.
+
+### Create the environment
+```bash
+conda env create -f env.yml
+conda activate prediction_env
